@@ -1,6 +1,8 @@
 # 🖱️ 智能鼠标助手 (SmartClick Pro)
 
 [English](#english) | [中文](#中文)
+
+
 ![image](https://github.com/user-attachments/assets/65b5ba88-3d85-49a5-96aa-c4bb83abdc6f)
 ![image](https://github.com/user-attachments/assets/a82c3a97-70cb-46f9-9e25-8e1bd0d76c8b)
 
